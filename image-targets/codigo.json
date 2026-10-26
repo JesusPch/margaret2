@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 42,
+    "width": 1205,
+    "height": 1607,
+    "isRotated": false,
+    "originalWidth": 1290,
+    "originalHeight": 1607
+  },
+  "imagePath": "image-targets/codigo_luminance.jpg",
+  "metadata": null,
+  "name": "codigo",
+  "resources": {
+    "originalImage": "codigo_original.jpg",
+    "croppedImage": "codigo_cropped.jpg",
+    "thumbnailImage": "codigo_thumbnail.jpg",
+    "luminanceImage": "codigo_luminance.jpg"
+  },
+  "created": 1792788030233,
+  "updated": 1792788030233
+}
